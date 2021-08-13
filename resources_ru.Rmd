@@ -1,0 +1,425 @@
+---
+title: "Все ресурсы"
+---
+
+# Устные корпуса {.tabset #m1}
+
+***
+
+В Лаборатории языковой конвергенции мы создаем устные корпуса — собрания устных текстов, записанных на аудио, расшифрованных и отглоссированных. Доступ к исходным аудиозаписям позволяет исследователям изучать языки на разных уровнях, не полагаясь на чужую транскрипцию. Функция поиска в корпусах возможна благодаря использованию стандартных парсеров, поэтому любое иследование речи по данным  разговорных корпусов требует не только обращения к текстам, но и  прослушивания всех используемых примеров.
+ 
+В Лаборатории мы разрабатываем корпуса диалектной, региональной и билингвальной речи, записанной преимущественно в сельской местности.
+ 
+Важной особенностью устных корпусов Лаборатории является наличие дополнительных социолингвистических метаданных о говорящих, которые включают информацию об их возрасте, поле, образовании, месте жительства и владении другими языками.
+ 
+Устные корпуса разрабатываются в сотрудничестве с исследователями из других университетов и институтов. Мы открыты сотрудничеству для разработки новых языковых ресурсов, аналогичных уже созданным.
+
+## Диалектные корпуса
+
+<!--html_preserve-->
+<div class="cards">
+    <article class="card gry">
+        <header>
+            <h2>Хиславичский говор</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 260&nbsp;793
+            <form action="http://lingconlab.ru/khislavichi/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card gry">
+        <header>
+            <h2>Лужниковский корпус</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 68&nbsp;666
+            <form action="http://lingconlab.ru/luzhnikovo" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Говоры низовья рек Лух и Теза</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 146&nbsp;350
+            <form action="http://lingconlab.ru/lukhteza" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Говор с. Малинино</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 138&nbsp;943
+            <form action="http://lingconlab.ru/malinino/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card gry">
+        <header>
+            <h2>Говор д. Нехочи</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 88&nbsp;965
+            <form action="http://lingconlab.ru/nekhochi/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Опочецкие говоры</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 68&nbsp;741
+            <form action="http://lingconlab.ru/luzhnikovo/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Говор с. Роговатка</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 100&nbsp;047
+            <form action="http://www.parasolcorpus.org/Rogovatka/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card pnk">
+        <header>
+            <h2>Говор с. Спиридонова Буда</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 70&nbsp;565
+            <form action="http://lingconlab.ru/SpiridonovaBuda/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Устьянские говоры</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 959&nbsp;782
+            <form action="http://www.parasolcorpus.org/Pushkino/login.php" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <!-- <article class="card"> -->
+    <!--     <header> -->
+    <!--         <h2>Говор г. Звенигород</h2> -->
+    <!--     </header>     -->
+    <!--     <div class="content"> -->
+    <!--       <p> Словоупотреблений: 68&nbsp;245 -->
+    <!--         <form action="http://lingconlab.ru/zvenigorod/" target="_blank"> -->
+    <!--           <button class="button" type="submit">Перейти</button> -->
+    <!--         </form> -->
+    <!--       </p> -->
+    <!--     </div> -->
+    <!-- </article> -->
+</div>
+<!--/html_preserve-->
+
+## Корпуса билингвального русского
+
+<!--html_preserve-->
+<div class="cards">
+    <article class="card gry">
+        <header>
+            <h2>Башкирский русский</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: ND
+            <form action="http://lingconlab.ru/BashkirRus/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Бесермянский русский</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 97&nbsp;216
+            <form action="http://lingconlab.ru/BesermanRus/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Чувашский русский</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 46&nbsp;307
+            <form action="http://lingconlab.ru/ChuvashRus/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card pnk">
+        <header>
+            <h2>Дагестанский русский</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 227&nbsp;885
+            <form action="http://parasolcorpus.org/dagrus/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Карельский русский</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 74&nbsp;014
+            <form action="http://lingconlab.ru/karelrus/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Якутский русский</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 15&nbsp;139
+            <form action="http://lingconlab.ru/cs_yakut/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card pnk">
+        <header>
+            <h2>Цыганский русский</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 41&nbsp;767
+            <form action="http://lingconlab.ru/romarus" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+</div>
+<!--/html_preserve-->
+
+## Корпуса малых языков России
+
+<!--html_preserve-->
+<div class="cards">
+    <article class="card">
+        <header>
+            <h2>Абазинский язык</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 3&nbsp;636
+            <form action="http://lingconlab.ru/spoken_abaza/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card gry">
+        <header>
+            <h2>Адыгейский язык</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: ND
+            <form action="http://lingconlab.ru/spoken_adyghe/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Башкирский язык</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: ~25&nbsp;000
+            <form action="http://lingconlab.ru/spoken_bashkir/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Кабардино-черкесский язык</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: ND
+            <form action="http://lingconlab.ru/spoken_besleney/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card pnk">
+        <header>
+            <h2>Хакасский язык</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: ~58&nbsp;000
+            <form action="http://lingconlab.ru/spoken_khakas/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+</div>
+<!--/html_preserve-->
+
+# {-}
+
+<!--html_preserve-->
+<div class="main-image" style="background-image: url('images/push2.jpg'); background-position: 0% 65%;">
+  <div class="attrib"> д. Пушкино-Михалёвская, Вельский район, Архангельская область <br> Михаил Даниэль </div>
+</div>
+<!--/html_preserve-->
+
+# Словари{#m2}
+
+***
+
+Словари созданы на материале аудио и текстовых данных, записанных в нескольких аулах Дагестана. Словарные списки составлены исходя из концепции о едином сравнительном лексиконе языков Дагестана и охватывают списки Сводеша и тезаурус Кибрика и Кодзасова для дагестанских языков.
+
+<!--html_preserve-->
+<div class="cards">
+    <article class="card pnk">
+        <header>
+            <h2>Мегебский язык</h2>
+        </header>    
+        <div class="content">
+          <p>Статей: 1&nbsp;132
+            <form action="http://lingconlab.ru/MehwebDict/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Рутульский язык</h2>
+        </header>    
+        <div class="content">
+          <p>Статей: 738
+            <form action="https://linghub.ru/rutuldict/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Тукитинский язык</h2>
+        </header>    
+        <div class="content">
+          <p>Статей: 1&nbsp;175
+            <form action="http://lingconlab.ru/TukitaDict/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+</div>
+<!--/html_preserve-->
+
+<!--html_preserve-->
+<div class="main-image" style="background-image: url('images/2.JPG'); background-position: 0% 65%;">
+  <div class="attrib">с. Кина, Рутульский район, Дагестан <br> Тимур Майсак </div>
+</div>
+<!--/html_preserve-->
+
+# Другие проекты{#m3}
+
+***
+
+Помимо словарей и корпусов, в лаборатории создаются базы данных и атласы, содержащие лексические, грамматические и социолингвистические данные языков и аулов Дагестана.
+
+<!--html_preserve-->
+<div class="cards">
+    <article class="card">
+        <header>
+            <h2>DagSwadesh</h2>
+        </header>
+        <div class="content">
+          <p> Список Сводеша в языках Дагестана
+            <form action="http://lingconlab.ru/dagswadesh/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>DagLoans</h2>
+        </header>
+        <div class="content">
+          <p> Заимствования в языках Дагестана
+            <form action="http://lingconlab.ru/dagloans/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card gry">
+        <header>
+            <h2>MultiDag</h2>
+        </header>
+        <div class="content">
+          <p> Атлас многоязычия в Дагестане
+            <form action="https://multidagestan.com/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>TALD</h2>
+        </header>
+        <div class="content">
+          <p> Типологический атлас языков Дагестана
+            <form action="http://lingconlab.ru/dagatlas/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+</div>
+<!--/html_preserve-->
+<!--html_preserve-->
+<div class="main-image" style="background-image: url('images/karat2.jpg'); background-position: 0% 65%;">
+  <div class="attrib"> Окрестности с. Карата, Ахвахский район, Дагестан <br> Тимофей Мухин </div>
+</div>
+<!--/html_preserve-->

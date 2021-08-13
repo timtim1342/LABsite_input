@@ -1,0 +1,68 @@
+---
+  title: "Международная лаборатория языковой конвергенции"
+---
+
+Одна из задач [Лаборатории языковой конвергенции](https://ilcl.hse.ru/) -  создание языковых ресурсов. В сотрудничестве с лингвистами из других институтов мы собираем и обрабатываем данные для [словарей](resources_ru.html#m2), разрабатываем [устные корпуса](resources_ru.html#m1) билингвального и диалектного русского, а также других малых языков России. Помимо этого, мы работаем над [проектами](resources_ru.html#m3), посвященными языковым контактам и распределению различных грамматических явление на территории Дагестана, самой многоязычной республике России.
+
+<!--html_preserve-->
+<div class="main-image" style="background-image: url('images/karat.jpg'); background-position: 0% 65%;">
+  <div class="attrib"> с. Арчо, Ахвахский район, Дагестан <br> Тимофей Мухин </div>
+</div>
+<!--/html_preserve-->
+
+# География источников данных для корпусов и словарей {.tabset}
+
+## Все данные
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+
+# packages
+library(tidyverse)
+library(lingtypology)
+
+# load data
+fe <- read_tsv("./data/corpora_villages.tsv") # example dataset
+
+```
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+
+map.feature(fe$lang,
+            latitude = fe$lat,
+            longitude = fe$lon,
+            feature = fe$type_ru,
+            color = c('#ffbcbc', '#5F9EA0'),
+            legend = T,
+            zoom.control = T,
+            popup = paste("<b>Топоним:</b>", fe$place_ru, "<br>",
+                          "<b>Проект:</b>", '<a target="_blank" href="', fe$link, '">', fe$name_ru),
+            tile = "Stamen.TonerLite",
+            width = 6
+            )
+```
+
+## Дагестан
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+fe <- fe %>% 
+  filter(lat<=44)
+
+map.feature(fe$lang,
+            latitude = fe$lat,
+            longitude = fe$lon,
+            feature = fe$type_ru,
+            color = c('#ffbcbc', '#5F9EA0'),
+            legend = T,
+            zoom.control = T,
+            popup = paste("<b>Топоним:</b>", fe$place_ru, "<br>",
+                          "<b>Проект:</b>", '<a target="_blank" href="', fe$link, '">', fe$name_ru),
+            tile = "Stamen.TonerLite",
+            width = 6
+            )
+```
+
+# {-}
+
+<!--html_preserve-->
+<div class="main-image" style="background-image: url('images/push1.jpg'); background-position: 0% 65%;">
+  <div class="attrib"> д. Пушкино-Михалёвская, Вельский район, Архангельская область <br> Михаил Даниэль </div>
+</div>
+<!--/html_preserve-->
