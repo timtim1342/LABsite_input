@@ -14,7 +14,7 @@ navbar:
             - text: "Khislavichi dialect"
               href: http://lingconlab.ru/khislavichi/
             - text: "Luzhnikovo dialect"
-              href: "http://lingconlab.ru/luzhnikovo"
+              href: http://lingconlab.ru/luzhnikovo
             - text: "Lukh and Teza river basins dialects"
               href: http://lingconlab.ru/lukhteza
             - text: "Malinino dialect"
@@ -22,9 +22,9 @@ navbar:
             - text: "Nekhochi dialect"
               href: http://lingconlab.ru/nekhochi/
             - text: "Opochetsky dialects"
-              href: http://lingconlab.ru/luzhnikovo/
+              href: http://lingconlab.ru/opochka
             - text: "Rogovatka dialect"
-              href: http://www.parasolcorpus.org/Rogovatka/
+              href: http://lingconlab.ru/rogovatka/
             - text: "Spiridonova Buda dialect"
               href: http://lingconlab.ru/SpiridonovaBuda/
             - text: "Ustja River Basin dialects"
@@ -59,6 +59,8 @@ navbar:
               href: http://lingconlab.ru/spoken_besleney/ 
             - text: "Khakas"
               href: http://lingconlab.ru/spoken_khakas/
+            - text: "Meadow Mari"
+              href: http://lingconlab.ru/spoken_meadow_mari/
     - text: "Dictionaries"
       menu:
         - text: "Mehweb"

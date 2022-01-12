@@ -85,7 +85,7 @@ The spoken corpora are developed in cooperation with researchers from other univ
         </header>    
         <div class="content">
           <p> Tokens: 68&nbsp;741
-            <form action="http://lingconlab.ru/luzhnikovo/" target="_blank">
+            <form action="http://lingconlab.ru/opochka" target="_blank">
               <button class="button" type="submit">View</button>
             </form>
           </p>
@@ -97,7 +97,7 @@ The spoken corpora are developed in cooperation with researchers from other univ
         </header>    
         <div class="content">
           <p> Tokens: 100&nbsp;047
-            <form action="http://www.parasolcorpus.org/Rogovatka/" target="_blank">
+            <form action="http://lingconlab.ru/rogovatka/" target="_blank">
               <button class="button" type="submit">View</button>
             </form>
           </p>
@@ -292,6 +292,18 @@ The spoken corpora are developed in cooperation with researchers from other univ
         <div class="content">
           <p> Tokens: ~58&nbsp;000
             <form action="http://lingconlab.ru/spoken_khakas/" target="_blank">
+              <button class="button" type="submit">View</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Meadow Mari</h2>
+        </header>    
+        <div class="content">
+          <p> Tokens: ND
+            <form action="http://lingconlab.ru/spoken_meadow_mari" target="_blank">
               <button class="button" type="submit">View</button>
             </form>
           </p>

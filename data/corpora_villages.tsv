@@ -5,7 +5,7 @@ Spoken corpus of Bashkir	Устный корпус башкирского язы
 Corpus of Opochetsky dialects	Корпус опочецких говоров	http://lingconlab.ru/opochka	corpus	корпус	dialectal	диалектный	Balashi	Балаши	56.817530393633696	28.68758590886312	Russian
 Corpus of Russian spoken in Daghestan	Корпус дагестанского русского	http://parasolcorpus.org/dagrus/	corpus	корпус	bilingual	билингвальный	Balkhar	Балхар	42.27872959608852	47.231176674231946	Russian
 Corpus of Opochetsky dialects	Корпус опочецких говоров	http://lingconlab.ru/opochka	corpus	корпус	dialectal	диалектный	Barabany	Барабаны	56.794103749023805	28.684124062817638	Russian
-Spoken corpus of Khakas	Устный корпус диалектов хакасского языка	http://parasolcorpus.org/dagrus/	corpus	корпус	minority	малых языков	Butrachty	Бутрахты	52.81184384781556	89.9874281348034	Khakas
+Spoken corpus of Khakas	Устный корпус диалектов хакасского языка	http://lingconlab.ru/spoken_khakas/	corpus	корпус	minority	малых языков	Butrachty	Бутрахты	52.81184384781556	89.9874281348034	Khakas
 Corpus of Karelian Russian	Корпус русской речи Карелии	http://lingconlab.ru/karelrus/ 	corpus	корпус	bilingual	билингвальный	Vedlozero	Ведлозеро	61.5840497029774	32.84259866170329	Russian
 Corpus of Russian spoken in Daghestan	Корпус дагестанского русского	http://parasolcorpus.org/dagrus/	corpus	корпус	bilingual	билингвальный	Verkhniye Ubeki	Верхние Убеки	42.36709294718831	47.24507508934407	Russian
 Corpus of Karelian Russian	Корпус русской речи Карелии	http://lingconlab.ru/karelrus/ 	corpus	корпус	bilingual	билингвальный	Voknavolok	Вокнаволок	64.9636709620851	30.559726789431615	Russian
@@ -21,9 +21,9 @@ Spoken corpus of Abaza	Устный корпус абазинского язык
 Corpus of Russian spoken in Daghestan	Корпус дагестанского русского	http://parasolcorpus.org/dagrus/	corpus	корпус	bilingual	билингвальный	Itsari	Ицари	41.99763484924097	47.58435465065718	Russian
 Spoken corpus of Adyghe	Устный корпус адыгейского языка	http://lingconlab.ru/spoken_adyghe/	corpus	корпус	minority	малых языков	Kabekhabl	Кабехабль	45.047325634291006	40.18040899953169	Adyghe
 Corpus of Opochetsky dialects	Корпус опочецких говоров	http://lingconlab.ru/opochka	corpus	корпус	dialectal	диалектный	Kadnikovo	Кадниково	56.81217882581824	28.697323495689513	Russian
-Spoken corpus of Khakas	Устный корпус диалектов хакасского языка	http://parasolcorpus.org/dagrus/	corpus	корпус	minority	малых языков	Kazanovka	Казановка	53.21588574209978	90.04742874076345	Khakas
+Spoken corpus of Khakas	Устный корпус диалектов хакасского языка	http://lingconlab.ru/spoken_khakas/	corpus	корпус	minority	малых языков	Kazanovka	Казановка	53.21588574209978	90.04742874076345	Khakas
 Corpus of Russian spoken in Daghestan	Корпус дагестанского русского	http://parasolcorpus.org/dagrus/	corpus	корпус	bilingual	билингвальный	Kalib	Калиб	42.07004342155359	46.86125184461028	Russian
-Spoken corpus of Khakas	Устный корпус диалектов хакасского языка	http://parasolcorpus.org/dagrus/	corpus	корпус	minority	малых языков	Karagay	Карагай	52.845508290571374	90.10717158242322	Khakas
+Spoken corpus of Khakas	Устный корпус диалектов хакасского языка	http://lingconlab.ru/spoken_khakas/	corpus	корпус	minority	малых языков	Karagay	Карагай	52.845508290571374	90.10717158242322	Khakas
 Corpus of Russian spoken in Daghestan	Корпус дагестанского русского	http://parasolcorpus.org/dagrus/	corpus	корпус	bilingual	билингвальный	Kina	Кина	41.6166	47.2647	Russian
 Dictionary of the Rutul language	Словарь рутульского языка	https://linghub.ru/rutuldict/	dictionary	словарь	dictionary	словарь	Kina	Кина	41.6186	47.2667	Rutul
 Corpus of Karelian Russian	Корпус русской речи Карелии	http://lingconlab.ru/karelrus/ 	corpus	корпус	bilingual	билингвальный	Kinerma	Кинерма	61.52887060798247	32.82902349213565	Russian
@@ -44,7 +44,7 @@ Corpus of Opochetsky dialects	Корпус опочецких говоров	htt
 Spoken corpus of Adyghe	Устный корпус адыгейского языка	http://lingconlab.ru/spoken_adyghe/	corpus	корпус	minority	малых языков	Pshicho	Пшичо	45.06402029925006	40.17600355381339	Adyghe
 Spoken corpus of Bashkir	Устный корпус башкирского языка	http://lingconlab.ru/spoken_bashkir/	corpus	корпус	minority	малых языков	Rakhmetovo	Рахметово	53.82462214311561	58.886474809708155	Bashkir
 Corpus of Russian spoken in Daghestan	Корпус дагестанского русского	http://parasolcorpus.org/dagrus/	corpus	корпус	bilingual	билингвальный	Rikvani	Риквани	42.7814853152129	46.317422796420594	Russian
-Corpus of Rogovatka dialect	Корпус говора села Роговатка	http://www.parasolcorpus.org/Rogovatka/	corpus	корпус	dialectal	диалектный	Rogovatoye	Роговатое	51.25013418106378	38.3774542925194	Russian
+Corpus of Rogovatka dialect	Корпус говора села Роговатка	http://lingconlab.ru/rogovatka/	corpus	корпус	dialectal	диалектный	Rogovatoye	Роговатое	51.25013418106378	38.3774542925194	Russian
 Corpus of the Russian dialect spoken in Khislavichi district	Корпус говора Хиславичского района	http://lingconlab.ru/khislavichi/	corpus	корпус	dialectal	диалектный	Soino	Соино	53.97977413895118	31.9937206687928	Russian
 Corpus of Spiridonova Buda dialect	Корпус говора села Спиридонова Буда	http://lingconlab.ru/SpiridonovaBuda/	corpus	корпус	dialectal	диалектный	Spiridonova Buda	Спиридонова Буда	52.2960319548886	31.78794776299452	Russian
 Corpus of the Russian dialect spoken in Khislavichi district	Корпус говора Хиславичского района	http://lingconlab.ru/khislavichi/	corpus	корпус	dialectal	диалектный	Stajki	Стайки	54.13313367449966	32.01403530693449	Russian
@@ -55,7 +55,7 @@ Spoken Corpus of the Besleney Dialect of East Circassian	Устный корпу
 Spoken corpus of Adyghe	Устный корпус адыгейского языка	http://lingconlab.ru/spoken_adyghe/	corpus	корпус	minority	малых языков	Khatazhukay	Хатажукай	45.07688950523018	40.18626859273333	Adyghe
 Corpus of Russian spoken in Daghestan	Корпус дагестанского русского	http://parasolcorpus.org/dagrus/	corpus	корпус	bilingual	билингвальный	Khiv	Хив	41.751611551643585	47.92894776881094	Russian
 Corpus of Russian spoken in Daghestan	Корпус дагестанского русского	http://parasolcorpus.org/dagrus/	corpus	корпус	bilingual	билингвальный	Cukhta	Цухта	42.34340660808177	47.32975273484241	Russian
-Spoken corpus of Khakas	Устный корпус диалектов хакасского языка	http://parasolcorpus.org/dagrus/	corpus	корпус	minority	малых языков	Chylany	Чиланы	52.813941049059814	90.04211830921673	Khakas
+Spoken corpus of Khakas	Устный корпус диалектов хакасского языка	http://lingconlab.ru/spoken_khakas/	corpus	корпус	minority	малых языков	Chylany	Чиланы	52.813941049059814	90.04211830921673	Khakas
 Corpus of Russian spoken in Daghestan	Корпус дагестанского русского	http://parasolcorpus.org/dagrus/	corpus	корпус	bilingual	билингвальный	Chishili	Чишили	42.1525537527337	47.66966563005805	Russian
 Corpus of Russian spoken in Daghestan	Корпус дагестанского русского	http://parasolcorpus.org/dagrus/	corpus	корпус	bilingual	билингвальный	Chuni	Чуни	42.34978299679263	47.3027470388149	Russian
 Corpus of Russian spoken in Daghestan	Корпус дагестанского русского	http://parasolcorpus.org/dagrus/	corpus	корпус	bilingual	билингвальный	Shalib	Шалиб	42.09087713490802	46.917931536218006	Russian
@@ -74,3 +74,4 @@ Corpus of Lukh and Teza river basins dialects	Корпус говоров низ
 Romani Russian Corpus	Корпус цыганского русского	http://lingconlab.ru/romarus	corpus	корпус	bilingual	билингвальный	Perm	Пермь	58.00197775627383	56.232282325889116	Russian
 Luzhnikovo Corpus	Лужниковский корпус	http://lingconlab.ru/luzhnikovo	corpus	корпус	dialectal	диалектный	Luzhnikovo	Лужниково	57.40276341393479	34.13254461884347	Russian
 Corpus of Russian spoken in Zvenigorod	Корпус говора города Звенигород	http://lingconlab.ru/zvenigorod/	corpus	корпус	dialectal	диалектный	Zvenigorod	Звенигород	55.72446426627951	36.835955084600094	Russian
+Spoken corpus of Meadow Mari 	Устный корпус лугового марийского языка 	http://lingconlab.ru/spoken_meadow_mari/	corpus	корпус	minority	малых языков	Staryj Torjal	Старый Торъял	56.95781880527962	48.78028178716152	Mari

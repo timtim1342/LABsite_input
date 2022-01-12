@@ -14,7 +14,7 @@ navbar:
             - text: "Хиславичский говор"
               href: http://lingconlab.ru/khislavichi/
             - text: "Говор с. Лужниково"
-              href: "http://lingconlab.ru/luzhnikovo"
+              href: http://lingconlab.ru/luzhnikovo
             - text: "Говоры низовья рек Лух и Теза"
               href: http://lingconlab.ru/lukhteza
             - text: "Говор с. Малинино"
@@ -22,9 +22,9 @@ navbar:
             - text: "Говор д. Нехочи"
               href: http://lingconlab.ru/nekhochi/
             - text: "Опочецкие говоры"
-              href: http://lingconlab.ru/luzhnikovo/
+              href: http://lingconlab.ru/opochka
             - text: "Говор с. Роговатка"
-              href: http://www.parasolcorpus.org/Rogovatka/
+              href: http://lingconlab.ru/rogovatka/
             - text: "Говор с. Спиридонова Буда"
               href: http://lingconlab.ru/SpiridonovaBuda/
             - text: "Устьянские говоры"
@@ -59,6 +59,8 @@ navbar:
               href: http://lingconlab.ru/spoken_besleney/ 
             - text: "Хакасский язык"
               href: http://lingconlab.ru/spoken_khakas/
+            - text: "Луговой марийский язык"
+              href: http://lingconlab.ru/spoken_meadow_mari/
     - text: "Словари"
       menu:
         - text: "Мегебский язык"

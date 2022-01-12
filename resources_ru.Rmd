@@ -84,7 +84,7 @@ title: "Все ресурсы"
         </header>    
         <div class="content">
           <p> Словоупотреблений: 68&nbsp;741
-            <form action="http://lingconlab.ru/luzhnikovo/" target="_blank">
+            <form action="http://lingconlab.ru/opochka" target="_blank">
               <button class="button" type="submit">Перейти</button>
             </form>
           </p>
@@ -96,7 +96,7 @@ title: "Все ресурсы"
         </header>    
         <div class="content">
           <p> Словоупотреблений: 100&nbsp;047
-            <form action="http://www.parasolcorpus.org/Rogovatka/" target="_blank">
+            <form action="http://lingconlab.ru/rogovatka/" target="_blank">
               <button class="button" type="submit">Перейти</button>
             </form>
           </p>
@@ -291,6 +291,18 @@ title: "Все ресурсы"
         <div class="content">
           <p> Словоупотреблений: ~58&nbsp;000
             <form action="http://lingconlab.ru/spoken_khakas/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Луговой марийский язык</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: ND
+            <form action="http://lingconlab.ru/spoken_meadow_mari" target="_blank">
               <button class="button" type="submit">Перейти</button>
             </form>
           </p>
