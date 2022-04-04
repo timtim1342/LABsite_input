@@ -27,6 +27,8 @@ navbar:
               href: http://lingconlab.ru/rogovatka/
             - text: "Spiridonova Buda dialect"
               href: http://lingconlab.ru/SpiridonovaBuda/
+            - text: "Upper Pinega and Vyya river basins dialect"
+              href: http://lingconlab.ru/vaduga/
             - text: "Ustja River Basin dialects"
               href: http://www.parasolcorpus.org/Pushkino/login.php
             - text: "Zvenigorod dialect"
@@ -43,10 +45,10 @@ navbar:
               href: http://parasolcorpus.org/dagrus/
             - text: "Karelian Russian"
               href: http://lingconlab.ru/karelrus/ 
-            - text: "Yakut Russian"
-              href: http://lingconlab.ru/cs_yakut/
             - text: "Romani Russian"
               href: http://lingconlab.ru/romarus
+            - text: "Yakut Russian"
+              href: http://lingconlab.ru/cs_yakut/
         - text: "Corpora of minority languages of Russia"
           menu:
             - text: "Abaza"

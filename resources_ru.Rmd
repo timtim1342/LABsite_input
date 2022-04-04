@@ -114,6 +114,18 @@ title: "Все ресурсы"
           </p>
         </div>
     </article>
+    <article class="card pnk">
+        <header>
+            <h2>Говор верхней Пинеги и Выи</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 70&nbsp;803
+            <form action="http://lingconlab.ru/vaduga/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
     <article class="card">
         <header>
             <h2>Устьянские говоры</h2>
@@ -205,18 +217,6 @@ title: "Все ресурсы"
           </p>
         </div>
     </article>
-    <article class="card">
-        <header>
-            <h2>Якутский русский</h2>
-        </header>    
-        <div class="content">
-          <p> Словоупотреблений: 15&nbsp;139
-            <form action="http://lingconlab.ru/cs_yakut/" target="_blank">
-              <button class="button" type="submit">Перейти</button>
-            </form>
-          </p>
-        </div>
-    </article>
     <article class="card pnk">
         <header>
             <h2>Цыганский русский</h2>
@@ -224,6 +224,18 @@ title: "Все ресурсы"
         <div class="content">
           <p> Словоупотреблений: 41&nbsp;767
             <form action="http://lingconlab.ru/romarus" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Якутский русский</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 15&nbsp;139
+            <form action="http://lingconlab.ru/cs_yakut/" target="_blank">
               <button class="button" type="submit">Перейти</button>
             </form>
           </p>

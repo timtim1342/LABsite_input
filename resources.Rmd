@@ -115,6 +115,18 @@ The spoken corpora are developed in cooperation with researchers from other univ
           </p>
         </div>
     </article>
+    <article class="card pnk">
+        <header>
+            <h2>Upper Pinega and Vyya river basins dialect</h2>
+        </header>    
+        <div class="content">
+          <p> Tokens: 70&nbsp;803
+            <form action="http://lingconlab.ru/vaduga/" target="_blank">
+              <button class="button" type="submit">View</button>
+            </form>
+          </p>
+        </div>
+    </article>
     <article class="card">
         <header>
             <h2>Ustja River Basin dialects</h2>
@@ -206,18 +218,6 @@ The spoken corpora are developed in cooperation with researchers from other univ
           </p>
         </div>
     </article>
-    <article class="card">
-        <header>
-            <h2>Yakut Russian</h2>
-        </header>    
-        <div class="content">
-          <p> Tokens: 15&nbsp;139
-            <form action="http://lingconlab.ru/cs_yakut/" target="_blank">
-              <button class="button" type="submit">View</button>
-            </form>
-          </p>
-        </div>
-    </article>
     <article class="card pnk">
         <header>
             <h2>Romani Russian</h2>
@@ -225,6 +225,18 @@ The spoken corpora are developed in cooperation with researchers from other univ
         <div class="content">
           <p> Tokens: 41&nbsp;767
             <form action="http://lingconlab.ru/romarus" target="_blank">
+              <button class="button" type="submit">View</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
+            <h2>Yakut Russian</h2>
+        </header>    
+        <div class="content">
+          <p> Tokens: 15&nbsp;139
+            <form action="http://lingconlab.ru/cs_yakut/" target="_blank">
               <button class="button" type="submit">View</button>
             </form>
           </p>

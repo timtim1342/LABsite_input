@@ -27,6 +27,8 @@ navbar:
               href: http://lingconlab.ru/rogovatka/
             - text: "Говор с. Спиридонова Буда"
               href: http://lingconlab.ru/SpiridonovaBuda/
+            - text: "Говор верхней Пинеги и Выи"
+              href: http://lingconlab.ru/vaduga/
             - text: "Устьянские говоры"
               href: http://www.parasolcorpus.org/Pushkino/login.php
             - text: "Говор г. Звенигород"
@@ -43,10 +45,10 @@ navbar:
               href: http://parasolcorpus.org/dagrus/
             - text: "Карельский русский"
               href: http://lingconlab.ru/karelrus/ 
-            - text: "Якутский русский"
-              href: http://lingconlab.ru/cs_yakut/
             - text: "Цыганский русский"
               href: http://lingconlab.ru/romarus
+            - text: "Якутский русский"
+              href: http://lingconlab.ru/cs_yakut/
         - text: "Корпуса малых языков России"
           menu:
             - text: "Абазинский язык"
