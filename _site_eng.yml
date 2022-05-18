@@ -27,6 +27,8 @@ navbar:
               href: http://lingconlab.ru/rogovatka/
             - text: "Spiridonova Buda dialect"
               href: http://lingconlab.ru/SpiridonovaBuda/
+            - text: "Tserkovnoe dialect"
+              href: http://lingconlab.ru/tserkovnoe
             - text: "Upper Pinega and Vyya river basins dialect"
               href: http://lingconlab.ru/vaduga/
             - text: "Ustja River Basin dialects"

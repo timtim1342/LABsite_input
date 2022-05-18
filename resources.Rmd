@@ -115,6 +115,18 @@ The spoken corpora are developed in cooperation with researchers from other univ
           </p>
         </div>
     </article>
+    <article class="card">
+        <header>
+            <h2>Tserkovnoe dialect</h2>
+        </header>    
+        <div class="content">
+          <p> Tokens: 19&nbsp;960
+            <form action="http://lingconlab.ru/tserkovnoe" target="_blank">
+              <button class="button" type="submit">View</button>
+            </form>
+          </p>
+        </div>
+    </article>
     <article class="card pnk">
         <header>
             <h2>Upper Pinega and Vyya river basins dialect</h2>

@@ -114,6 +114,18 @@ title: "Все ресурсы"
           </p>
         </div>
     </article>
+    <article class="card">
+        <header>
+            <h2>Говор с. Церковное</h2>
+        </header>    
+        <div class="content">
+          <p> Tokens: 19&nbsp;960
+            <form action="http://lingconlab.ru/tserkovnoe" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
     <article class="card pnk">
         <header>
             <h2>Говор верхней Пинеги и Выи</h2>

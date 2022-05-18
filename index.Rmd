@@ -23,14 +23,18 @@ library(lingtypology)
 # load data
 fe <- read_tsv("./data/corpora_villages.tsv") # example dataset
 
+fe$subtype[fe$subtype == 'bilingual'] <- 'bilingual corpus'
+fe$subtype[fe$subtype == 'dialectal'] <- 'dialect corpus'
+fe$subtype[fe$subtype == 'minority'] <- 'corpus of minority languages'
+
 ```
-```{r, echo=FALSE, warning=FALSE, message=FALSE}
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 map.feature(fe$lang,
             latitude = fe$lat,
             longitude = fe$lon,
-            feature = fe$type,
-            color = c('#ffbcbc', '#5F9EA0'),
+            feature = fe$subtype,
+            color = c('#c5d0cc', '#5F9EA0', '#384845', '#ffbcbc'),
             legend = T,
             zoom.control = T,
             popup = paste("<b>Place name:</b>", fe$place, "<br>",
@@ -48,8 +52,8 @@ fe <- fe %>%
 map.feature(fe$lang,
             latitude = fe$lat,
             longitude = fe$lon,
-            feature = fe$type,
-            color = c('#ffbcbc', '#5F9EA0'),
+            feature = fe$subtype,
+            color = c('#c5d0cc', '#ffbcbc'),
             legend = T,
             zoom.control = T,
             popup = paste("<b>Place name:</b>", fe$place, "<br>",

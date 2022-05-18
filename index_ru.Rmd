@@ -23,14 +23,20 @@ library(lingtypology)
 # load data
 fe <- read_tsv("./data/corpora_villages.tsv") # example dataset
 
+fe$subtype_ru[fe$subtype_ru == 'билингвальный'] <- 'билингвальный корпус'
+fe$subtype_ru[fe$subtype_ru == 'диалектный'] <- 'диалектный корпус'
+fe$subtype_ru[fe$subtype_ru == 'малых языков'] <- 'корпус малых языков'
+
+
+
 ```
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 
 map.feature(fe$lang,
             latitude = fe$lat,
             longitude = fe$lon,
-            feature = fe$type_ru,
-            color = c('#ffbcbc', '#5F9EA0'),
+            feature = fe$subtype_ru,
+            color = c('#c5d0cc', '#5F9EA0', '#384845', '#ffbcbc'),
             legend = T,
             zoom.control = T,
             popup = paste("<b>Топоним:</b>", fe$place_ru, "<br>",
@@ -48,8 +54,8 @@ fe <- fe %>%
 map.feature(fe$lang,
             latitude = fe$lat,
             longitude = fe$lon,
-            feature = fe$type_ru,
-            color = c('#ffbcbc', '#5F9EA0'),
+            feature = fe$subtype_ru,
+            color = c('#c5d0cc', '#ffbcbc'),
             legend = T,
             zoom.control = T,
             popup = paste("<b>Топоним:</b>", fe$place_ru, "<br>",
