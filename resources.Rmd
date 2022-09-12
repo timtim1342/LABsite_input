@@ -31,6 +31,18 @@ The spoken corpora are developed in cooperation with researchers from other univ
           </p>
         </div>
     </article>
+    <article class="card">
+        <header>
+            <h2>Keba dialect</h2>
+        </header>    
+        <div class="content">
+          <p> Tokens: 54&nbsp;535
+            <form action="http://lingconlab.ru/keba/" target="_blank">
+              <button class="button" type="submit">View</button>
+            </form>
+          </p>
+        </div>
+    </article>
     <article class="card gry">
         <header>
             <h2>Luzhnikovo dialect</h2>

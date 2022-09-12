@@ -2,78 +2,80 @@ name: "LCL"
 new_session: yes
 # resolves problem with same? references
 navbar:
-  title: "Международная лаборатория языковой конвергенции <a href=\"index.html\"> eng </a><a href=\"index_ru.html\"> ru </a><br><a class=\"res\" href=\"index_ru.html\"> Ресурсы </a>"
+  title: "Linguistic Convergence Laboratory <a href=\"index.html\"> eng </a><a href=\"index_ru.html\"> ru </a><br><a class=\"res\" href=\"index.html\"> Resources </a>"
   type: default
   right:
-    - text: "Все ресурсы"
-      href: "resources_ru.html"
-    - text: "Корпуса"
+    - text: "All resources"
+      href: "resources.html"
+    - text: "Corpora"
       menu:
-        - text: "Диалектные корпуса"
+        - text: "Dialect corpora"
           menu:
-            - text: "Хиславичский говор"
+            - text: "Khislavichi dialect"
               href: http://lingconlab.ru/khislavichi/
-            - text: "Говор с. Лужниково"
+            - text: "Keba dialect"
+              href: http://lingconlab.ru/keba/
+            - text: "Luzhnikovo dialect"
               href: http://lingconlab.ru/luzhnikovo
-            - text: "Говоры низовья рек Лух и Теза"
+            - text: "Lukh and Teza river basins dialects"
               href: http://lingconlab.ru/lukhteza
-            - text: "Говор с. Малинино"
+            - text: "Malinino dialect"
               href: http://lingconlab.ru/malinino/
-            - text: "Говор д. Нехочи"
+            - text: "Nekhochi dialect"
               href: http://lingconlab.ru/nekhochi/
-            - text: "Опочецкие говоры"
+            - text: "Opochetsky dialects"
               href: http://lingconlab.ru/opochka
-            - text: "Говор с. Роговатка"
+            - text: "Rogovatka dialect"
               href: http://lingconlab.ru/rogovatka/
-            - text: "Говор с. Спиридонова Буда"
+            - text: "Spiridonova Buda dialect"
               href: http://lingconlab.ru/SpiridonovaBuda/
-            - text: "Говор с. Церковное"
+            - text: "Tserkovnoe dialect"
               href: http://lingconlab.ru/tserkovnoe
-            - text: "Говор верхней Пинеги и Выи"
+            - text: "Upper Pinega and Vyya river basins dialect"
               href: http://lingconlab.ru/vaduga/
-            - text: "Устьянские говоры"
+            - text: "Ustja River Basin dialects"
               href: http://www.parasolcorpus.org/Pushkino/login.php
-            - text: "Говор г. Звенигород"
+            - text: "Zvenigorod dialect"
               href: http://lingconlab.ru/zvenigorod/
-        - text: "Корпуса билингвального русского"
+        - text: "Corpora of bilingual Russian"
           menu:
-            - text: "Башкирский русский"
+            - text: "Bashkortostan Russian"
               href: http://lingconlab.ru/BashkirRus/
-            - text: "Бесермянский русский"
+            - text: "Beserman Russian"
               href: http://lingconlab.ru/BesermanRus/
-            - text: "Чувашский русский"
+            - text: "Chuvash Russian"
               href: http://lingconlab.ru/ChuvashRus/
-            - text: "Дагестанский русский"
+            - text: "Daghestanian  Russian"
               href: http://parasolcorpus.org/dagrus/
-            - text: "Карельский русский"
+            - text: "Karelian Russian"
               href: http://lingconlab.ru/karelrus/ 
-            - text: "Цыганский русский"
+            - text: "Romani Russian"
               href: http://lingconlab.ru/romarus
-            - text: "Якутский русский"
+            - text: "Yakut Russian"
               href: http://lingconlab.ru/cs_yakut/
-        - text: "Корпуса малых языков России"
+        - text: "Corpora of minority languages of Russia"
           menu:
-            - text: "Абазинский язык"
+            - text: "Abaza"
               href: http://lingconlab.ru/spoken_abaza/
-            - text: "Адыгейский язык"
+            - text: "Adyghe"
               href: http://lingconlab.ru/spoken_adyghe/
-            - text: "Башкирский язык"
+            - text: "Bashkir"
               href: http://lingconlab.ru/spoken_bashkir/
-            - text: "Кабардино-черкесский язык"
+            - text: "Kabardian"
               href: http://lingconlab.ru/spoken_besleney/ 
-            - text: "Хакасский язык"
+            - text: "Khakas"
               href: http://lingconlab.ru/spoken_khakas/
-            - text: "Луговой марийский язык"
+            - text: "Meadow Mari"
               href: http://lingconlab.ru/spoken_meadow_mari/
-    - text: "Словари"
+    - text: "Dictionaries"
       menu:
-        - text: "Мегебский язык"
+        - text: "Mehweb"
           href: http://lingconlab.ru/MehwebDict/
-        - text: "Рутульский язык"
+        - text: "Rutul"
           href: https://linghub.ru/rutuldict/
-        - text: "Тукитинский язык"
+        - text: "Tukita"
           href: http://lingconlab.ru/TukitaDict/
-    - text: "Другие проекты"
+    - text: "Other Resources"
       menu:
         - text: "DagSwadesh"
           href: http://lingconlab.ru/dagswadesh/
@@ -87,6 +89,6 @@ output:
   html_document:
     include:
       in_header: ./html/include_head.html
-      after_body: ./html/footer_ru.html
+      after_body: ./html/footer.html
     theme: yeti # readable lumen yeti
     css: ./css/styles.css
