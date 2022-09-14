@@ -128,6 +128,18 @@ title: "Все ресурсы"
     </article>
     <article class="card">
         <header>
+            <h2>Говор д. Шетнево и Макеево</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 58&nbsp;003
+            <form action="http://lingconlab.ru/shetnevo/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
             <h2>Говор с. Церковное</h2>
         </header>    
         <div class="content">

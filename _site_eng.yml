@@ -1,0 +1,96 @@
+name: "LCL"
+new_session: yes
+# resolves problem with same? references
+navbar:
+  title: "Linguistic Convergence Laboratory <a href=\"index.html\"> eng </a><a href=\"index_ru.html\"> ru </a><br><a class=\"res\" href=\"index.html\"> Resources </a>"
+  type: default
+  right:
+    - text: "All resources"
+      href: "resources.html"
+    - text: "Corpora"
+      menu:
+        - text: "Dialect corpora"
+          menu:
+            - text: "Khislavichi dialect"
+              href: http://lingconlab.ru/khislavichi/
+            - text: "Keba dialect"
+              href: http://lingconlab.ru/keba/
+            - text: "Luzhnikovo dialect"
+              href: http://lingconlab.ru/luzhnikovo
+            - text: "Lukh and Teza river basins dialects"
+              href: http://lingconlab.ru/lukhteza
+            - text: "Malinino dialect"
+              href: http://lingconlab.ru/malinino/
+            - text: "Nekhochi dialect"
+              href: http://lingconlab.ru/nekhochi/
+            - text: "Opochetsky dialects"
+              href: http://lingconlab.ru/opochka
+            - text: "Rogovatka dialect"
+              href: http://lingconlab.ru/rogovatka/
+            - text: "Spiridonova Buda dialect"
+              href: http://lingconlab.ru/SpiridonovaBuda/
+            - text: "Shetnevo and Makeevo dialect"
+              href: http://lingconlab.ru/shetnevo/
+            - text: "Tserkovnoe dialect"
+              href: http://lingconlab.ru/tserkovnoe
+            - text: "Upper Pinega and Vyya river basins dialect"
+              href: http://lingconlab.ru/vaduga/
+            - text: "Ustja River Basin dialects"
+              href: http://www.parasolcorpus.org/Pushkino/login.php
+            - text: "Zvenigorod dialect"
+              href: http://lingconlab.ru/zvenigorod/
+        - text: "Corpora of bilingual Russian"
+          menu:
+            - text: "Bashkortostan Russian"
+              href: http://lingconlab.ru/BashkirRus/
+            - text: "Beserman Russian"
+              href: http://lingconlab.ru/BesermanRus/
+            - text: "Chuvash Russian"
+              href: http://lingconlab.ru/ChuvashRus/
+            - text: "Daghestanian  Russian"
+              href: http://parasolcorpus.org/dagrus/
+            - text: "Karelian Russian"
+              href: http://lingconlab.ru/karelrus/ 
+            - text: "Romani Russian"
+              href: http://lingconlab.ru/romarus
+            - text: "Yakut Russian"
+              href: http://lingconlab.ru/cs_yakut/
+        - text: "Corpora of minority languages of Russia"
+          menu:
+            - text: "Abaza"
+              href: http://lingconlab.ru/spoken_abaza/
+            - text: "Adyghe"
+              href: http://lingconlab.ru/spoken_adyghe/
+            - text: "Bashkir"
+              href: http://lingconlab.ru/spoken_bashkir/
+            - text: "Kabardian"
+              href: http://lingconlab.ru/spoken_besleney/ 
+            - text: "Khakas"
+              href: http://lingconlab.ru/spoken_khakas/
+            - text: "Meadow Mari"
+              href: http://lingconlab.ru/spoken_meadow_mari/
+    - text: "Dictionaries"
+      menu:
+        - text: "Mehweb"
+          href: http://lingconlab.ru/MehwebDict/
+        - text: "Rutul"
+          href: https://linghub.ru/rutuldict/
+        - text: "Tukita"
+          href: http://lingconlab.ru/TukitaDict/
+    - text: "Other Resources"
+      menu:
+        - text: "DagSwadesh"
+          href: http://lingconlab.ru/dagswadesh/
+        - text: "DagLoans"
+          href: http://lingconlab.ru/dagloans/
+        - text: "MultiDag"
+          href: https://multidagestan.com/
+        - text: "TALD"
+          href: http://lingconlab.ru/dagatlas/
+output:
+  html_document:
+    include:
+      in_header: ./html/include_head.html
+      after_body: ./html/footer.html
+    theme: yeti # readable lumen yeti
+    css: ./css/styles.css

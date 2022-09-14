@@ -129,6 +129,18 @@ The spoken corpora are developed in cooperation with researchers from other univ
     </article>
     <article class="card">
         <header>
+            <h2>Shetnevo and Makeevo dialect</h2>
+        </header>    
+        <div class="content">
+          <p> Tokens: 58&nbsp;003
+            <form action="http://lingconlab.ru/shetnevo/" target="_blank">
+              <button class="button" type="submit">View</button>
+            </form>
+          </p>
+        </div>
+    </article>
+    <article class="card">
+        <header>
             <h2>Tserkovnoe dialect</h2>
         </header>    
         <div class="content">
