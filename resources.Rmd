@@ -79,6 +79,18 @@ The spoken corpora are developed in cooperation with researchers from other univ
           </p>
         </div>
     </article>
+    <article class="card">
+        <header>
+            <h2>Middle Pyoza dialect</h2>
+        </header>    
+        <div class="content">
+          <p> Tokens: 79&nbsp;566
+            <form action="http://lingconlab.ru/pyoza/" target="_blank">
+              <button class="button" type="submit">View</button>
+            </form>
+          </p>
+        </div>
+    </article>
     <article class="card gry">
         <header>
             <h2>Nekhochi dialect</h2>

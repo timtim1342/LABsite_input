@@ -1,0 +1,98 @@
+name: "LCL"
+new_session: yes
+# resolves problem with same? references
+navbar:
+  title: "Международная лаборатория языковой конвергенции <a href=\"index.html\"> eng </a><a href=\"index_ru.html\"> ru </a><br><a class=\"res\" href=\"index_ru.html\"> Ресурсы </a>"
+  type: default
+  right:
+    - text: "Все ресурсы"
+      href: "resources_ru.html"
+    - text: "Корпуса"
+      menu:
+        - text: "Диалектные корпуса"
+          menu:
+            - text: "Хиславичский говор"
+              href: http://lingconlab.ru/khislavichi/
+            - text: "Говор с. Кеба"
+              href: http://lingconlab.ru/keba
+            - text: "Говор с. Лужниково"
+              href: http://lingconlab.ru/luzhnikovo
+            - text: "Говоры низовья рек Лух и Теза"
+              href: http://lingconlab.ru/lukhteza
+            - text: "Говор с. Малинино"
+              href: http://lingconlab.ru/malinino/
+            - text: "Говор Средней Пёзы"
+              href: http://lingconlab.ru/pyoza/
+            - text: "Говор д. Нехочи"
+              href: http://lingconlab.ru/nekhochi/
+            - text: "Опочецкие говоры"
+              href: http://lingconlab.ru/opochka
+            - text: "Говор с. Роговатка"
+              href: http://lingconlab.ru/rogovatka/
+            - text: "Говор с. Спиридонова Буда"
+              href: http://lingconlab.ru/SpiridonovaBuda/
+            - text: "Говор д. Шетнево и Макеево"
+              href: http://lingconlab.ru/shetnevo
+            - text: "Говор с. Церковное"
+              href: http://lingconlab.ru/tserkovnoe
+            - text: "Говор верхней Пинеги и Выи"
+              href: http://lingconlab.ru/vaduga/
+            - text: "Устьянские говоры"
+              href: http://www.parasolcorpus.org/Pushkino/login.php
+            - text: "Говор г. Звенигород"
+              href: http://lingconlab.ru/zvenigorod/
+        - text: "Корпуса билингвального русского"
+          menu:
+            - text: "Башкирский русский"
+              href: http://lingconlab.ru/BashkirRus/
+            - text: "Бесермянский русский"
+              href: http://lingconlab.ru/BesermanRus/
+            - text: "Чувашский русский"
+              href: http://lingconlab.ru/ChuvashRus/
+            - text: "Дагестанский русский"
+              href: http://parasolcorpus.org/dagrus/
+            - text: "Карельский русский"
+              href: http://lingconlab.ru/karelrus/ 
+            - text: "Цыганский русский"
+              href: http://lingconlab.ru/romarus
+            - text: "Якутский русский"
+              href: http://lingconlab.ru/cs_yakut/
+        - text: "Корпуса малых языков России"
+          menu:
+            - text: "Абазинский язык"
+              href: http://lingconlab.ru/spoken_abaza/
+            - text: "Адыгейский язык"
+              href: http://lingconlab.ru/spoken_adyghe/
+            - text: "Башкирский язык"
+              href: http://lingconlab.ru/spoken_bashkir/
+            - text: "Кабардино-черкесский язык"
+              href: http://lingconlab.ru/spoken_besleney/ 
+            - text: "Хакасский язык"
+              href: http://lingconlab.ru/spoken_khakas/
+            - text: "Луговой марийский язык"
+              href: http://lingconlab.ru/spoken_meadow_mari/
+    - text: "Словари"
+      menu:
+        - text: "Мегебский язык"
+          href: http://lingconlab.ru/MehwebDict/
+        - text: "Рутульский язык"
+          href: https://linghub.ru/rutuldict/
+        - text: "Тукитинский язык"
+          href: http://lingconlab.ru/TukitaDict/
+    - text: "Другие проекты"
+      menu:
+        - text: "DagSwadesh"
+          href: http://lingconlab.ru/dagswadesh/
+        - text: "DagLoans"
+          href: http://lingconlab.ru/dagloans/
+        - text: "MultiDag"
+          href: https://multidagestan.com/
+        - text: "TALD"
+          href: http://lingconlab.ru/dagatlas/
+output:
+  html_document:
+    include:
+      in_header: ./html/include_head.html
+      after_body: ./html/footer_ru.html
+    theme: yeti # readable lumen yeti
+    css: ./css/styles.css

@@ -78,6 +78,18 @@ title: "Все ресурсы"
           </p>
         </div>
     </article>
+    <article class="card">
+        <header>
+            <h2>Говор Средней Пёзы</h2>
+        </header>    
+        <div class="content">
+          <p> Словоупотреблений: 79&nbsp;566
+            <form action="http://lingconlab.ru/pyoza/" target="_blank">
+              <button class="button" type="submit">Перейти</button>
+            </form>
+          </p>
+        </div>
+    </article>
     <article class="card gry">
         <header>
             <h2>Говор д. Нехочи</h2>
