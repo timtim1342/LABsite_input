@@ -13,7 +13,7 @@ body {
   color:#5f9ea0;
 }
 .dropdown-menu {/*чтобы влезали длинные названия*/
-  min-width: 225px;
+  min-width: 270px;
 }
 #htmlwidget-244aaddf2639520a3f5a, #htmlwidget-6f66dca5431bfb50b4e6{ /*карты на about. временное решение*/
   width: 100% !important;
